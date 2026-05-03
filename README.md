@@ -17,7 +17,7 @@ I love turning functional requirements into clean, scalable Odoo customizations.
 ---
 
 ## 🛠 Tech Stack
-- **Odoo:** v12–v18, ORM, QWeb, Workflows, Studio, Website  
+- **Odoo:** v15–v19, ORM, QWeb, Workflows, Studio, Website  
 - **Languages:** Python, XML, JavaScript, SQL  
 - **Tools:** Git, GitHub, Odoo.sh, Linux, VS Code, PyCharm
 - **Other:** Debugging, API Integration, PostgreSQL, Website Customization
