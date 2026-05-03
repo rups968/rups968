@@ -7,7 +7,7 @@
 I'm an Odoo Developer specializing in customizing business workflows, fixing complex bugs, and building smart ERP solutions.  
 I love turning functional requirements into clean, scalable Odoo customizations.
 
-- 🔥 Currently working on **Odoo v18 Development & Customization**
+- 🔥 Currently working on **Odoo Development & Customization**
 - 🧠 Learning **Automate workflows**
 - 🛠 Freelancing in **Odoo Custom Modules, Debugging, Integrations**
 - 🌱 Always improving logic & development skills
